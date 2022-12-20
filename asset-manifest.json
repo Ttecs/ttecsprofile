@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/ttecsprofile/static/css/main.5caf9b2c.css",
+    "main.js": "/ttecsprofile/static/js/main.10550cd2.js",
+    "static/media/cartoon1587042900128-removebg.png": "/ttecsprofile/static/media/cartoon1587042900128-removebg.d8cd7f726fd36525a701.png",
+    "static/media/ecommerce.png": "/ttecsprofile/static/media/ecommerce.522da76635d52117102b.png",
+    "static/media/resume.pdf": "/ttecsprofile/static/media/resume.944ae2c2747f86318de8.pdf",
+    "static/media/sidebar.png": "/ttecsprofile/static/media/sidebar.b2225070b8adae68d063.png",
+    "static/media/musicapp.png": "/ttecsprofile/static/media/musicapp.f1c301f91904ef5f9249.png",
+    "static/media/GTMaruMedium.ttf": "/ttecsprofile/static/media/GTMaruMedium.553b0b8e3409536db2c6.ttf",
+    "static/media/GTMaruLight.ttf": "/ttecsprofile/static/media/GTMaruLight.7beeaac8ee5bc8e6f0f2.ttf",
+    "static/media/GTMaruBold.ttf": "/ttecsprofile/static/media/GTMaruBold.ea11fb442c5feb7c8af3.ttf",
+    "static/media/glassesimoji.png": "/ttecsprofile/static/media/glassesimoji.a08bdab12e8eb56a6874.png",
+    "static/media/hoc.png": "/ttecsprofile/static/media/hoc.e6af51fc04c57ae67096.png",
+    "static/media/thumbup.png": "/ttecsprofile/static/media/thumbup.e06790ba656f0397cbe5.png",
+    "static/media/humble.png": "/ttecsprofile/static/media/humble.c8b32b53675e68978981.png",
+    "static/media/heartemoji.png": "/ttecsprofile/static/media/heartemoji.26b1b6ed5e0e44083b28.png",
+    "static/media/wave.png": "/ttecsprofile/static/media/wave.fdfef4069ad90f610990.png",
+    "static/media/crown.png": "/ttecsprofile/static/media/crown.dbe416beae9b49b842ab.png",
+    "static/media/Vector2.png": "/ttecsprofile/static/media/Vector2.28db5bfd58081dd1df1b.png",
+    "static/media/glasses.png": "/ttecsprofile/static/media/glasses.71d7c1b0ff0b870a9d7d.png",
+    "index.html": "/ttecsprofile/index.html",
+    "main.5caf9b2c.css.map": "/ttecsprofile/static/css/main.5caf9b2c.css.map",
+    "main.10550cd2.js.map": "/ttecsprofile/static/js/main.10550cd2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5caf9b2c.css",
+    "static/js/main.10550cd2.js"
+  ]
+}
